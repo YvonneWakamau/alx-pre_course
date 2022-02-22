@@ -1,1 +1,1 @@
-My first readme
+copyright Yvonne wa Karush
